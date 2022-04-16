@@ -1,18 +1,16 @@
 # About
-This application reproduces the effect of the works page of [Kirifuda Inc](https://kirifuda.co.jp).
+This application reproduces the effect of [Monopo London](https://monopo.london/).
 
-https://nemutas.github.io/r3f-kirifuda/
+https://nemutas.github.io/r3f-monopo-london/
 
-![output(video-cutter-js com) (3)](https://user-images.githubusercontent.com/46724121/163362000-ce2070ef-62f1-4576-bfec-38c62ac01c92.gif)
+![output(video-cutter-js com) (4)](https://user-images.githubusercontent.com/46724121/163683407-7a22bcb5-88e8-4ef8-b3d7-282284d5c8aa.gif)
 
 # Technology
 
 - TypeScript
 - React（Create React App）
 - React Three Fiber（Three.js）
-- Postprocessing
 - Canvas Texture
-- Canvas Animation
 
 # License
 
